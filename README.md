@@ -34,6 +34,8 @@ MySQL 外部XA及其在分布式事务中的应用分析
 
 MySQL 查询优化浅析
 
+管中窥豹——MySQL(InnoDB)死锁分析之道
+
 Oracle RAC资源管理算法与Cache-Fusion实现浅析
 
 # Programming
