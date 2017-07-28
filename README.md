@@ -8,6 +8,8 @@ What's new in AliSQL - Alibaba's fork of MySQL （Percona Live 2016）
 
 AliSQL breakthrough for the future（Percona Live 2017）
 
+AliSQL 引领开源技术变革之（首届中间件技术峰会）
+
 # RocksDB
 RocksDB(MyRocks)源码学习—写
 
